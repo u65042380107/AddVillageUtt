@@ -11,7 +11,6 @@ use Illuminate\Support\Facades\DB;
 class VillageController extends Controller
 {
 
-
 public function index() {
     $districts = District::all();
     // dd($districts);
