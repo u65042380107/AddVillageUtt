@@ -2,8 +2,7 @@ name: Bug Report Form
 description: File a bug report.
 title: "[Bug]: "
 labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
-type: markdown
+projects: ["u65042380107/AddVillageUtt", "u65042380107/drawNumber"]
 body:
   - type: markdown
     attributes:
